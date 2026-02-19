@@ -868,9 +868,9 @@ function onRefChange(n) {
     else if (type === 'Accessoire') items = DATA.accessoires.filter(a => a.reference===ref);
     else if (type === 'Gravure') { recalcLine(n); return; }
     
-    const granits = [...new Map(items.map(i => [i.code_granit, i.granit])).entries()];
-    granits.sort((a,b) => a[1].localeCompare(b[1],'fr'));
-    granits.forEach(([code, nom]) => { selGranit.innerHTML += `<option value="${code}">${nom}</option>`; });
+    const granits = [...new Set(items.map(i => i.granit))];
+    granits.sort((a,b) => a.localeCompare(b,'fr'));
+    granits.forEach(nom => { selGranit.innerHTML += `<option value="${nom}">${nom}</option>`; });
     clearPrix(n); updateImgButton(n);
 }
 
@@ -896,15 +896,15 @@ function getLineData(n) {
     let prixUnit = 0, poids = 0;
     
     if (type === 'Monument' && ref && granit) {
-        const item = DATA.monuments.find(m => m.reference===ref && m.code_granit==granit);
+        const item = DATA.monuments.find(m => m.reference===ref && m.granit===granit);
         if (item) prixUnit = item.prix_ht;
         poids = DATA.poids[ref] || 0;
     } else if (type === 'Semelle' && ref && granit) {
-        const item = DATA.semelles.find(s => s.reference===ref && s.code_granit==granit);
+        const item = DATA.semelles.find(s => s.reference===ref && s.granit===granit);
         if (item) prixUnit = item.prix_ht;
         poids = ref.includes('130') ? 0.150 : ref.includes('140') ? 0.180 : 0.210;
     } else if (type === 'Accessoire' && ref && granit) {
-        const item = DATA.accessoires.find(a => a.reference===ref && a.code_granit==granit);
+        const item = DATA.accessoires.find(a => a.reference===ref && a.granit===granit);
         if (item) prixUnit = item.prix_ht;
         poids = DATA.poids[ref] || 0;
     } else if (type === 'Gravure') {
