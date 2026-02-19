@@ -3,7 +3,8 @@
     {
       "code": 1,
       "nom": "Feuille d'automne indien",
-      "origine": "Inde"
+      "origine": "Inde",
+      "photo": "photos/granits/1-feuille-automne-indien.jpg"
     },
     {
       "code": 2,
@@ -13,7 +14,8 @@
     {
       "code": 3,
       "nom": "Puma",
-      "origine": "Inde"
+      "origine": "Inde",
+      "photo": "photos/granits/3-puma.jpg"
     },
     {
       "code": 4,
@@ -1356,8 +1358,7 @@
       "prix_ht": 594,
       "avec_semelle_130x230": 752,
       "avec_semelle_140x240": 798,
-      "avec_semelle_150x250": 846,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 846
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1368,8 +1369,7 @@
       "prix_ht": 593,
       "avec_semelle_130x230": 751,
       "avec_semelle_140x240": 797,
-      "avec_semelle_150x250": 845,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 845
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1380,8 +1380,7 @@
       "prix_ht": 660,
       "avec_semelle_130x230": 836,
       "avec_semelle_140x240": 887,
-      "avec_semelle_150x250": 940,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 940
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1392,8 +1391,7 @@
       "prix_ht": 671,
       "avec_semelle_130x230": 850,
       "avec_semelle_140x240": 902,
-      "avec_semelle_150x250": 956,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 956
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1404,8 +1402,7 @@
       "prix_ht": 671,
       "avec_semelle_130x230": 850,
       "avec_semelle_140x240": 902,
-      "avec_semelle_150x250": 956,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 956
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1416,8 +1413,7 @@
       "prix_ht": 674,
       "avec_semelle_130x230": 854,
       "avec_semelle_140x240": 906,
-      "avec_semelle_150x250": 961,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 961
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1428,8 +1424,7 @@
       "prix_ht": 674,
       "avec_semelle_130x230": 854,
       "avec_semelle_140x240": 906,
-      "avec_semelle_150x250": 961,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 961
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1440,8 +1435,7 @@
       "prix_ht": 674,
       "avec_semelle_130x230": 854,
       "avec_semelle_140x240": 906,
-      "avec_semelle_150x250": 961,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 961
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1452,8 +1446,7 @@
       "prix_ht": 674,
       "avec_semelle_130x230": 854,
       "avec_semelle_140x240": 906,
-      "avec_semelle_150x250": 961,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 961
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1464,8 +1457,7 @@
       "prix_ht": 674,
       "avec_semelle_130x230": 854,
       "avec_semelle_140x240": 906,
-      "avec_semelle_150x250": 961,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 961
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1476,8 +1468,7 @@
       "prix_ht": 674,
       "avec_semelle_130x230": 854,
       "avec_semelle_140x240": 906,
-      "avec_semelle_150x250": 961,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 961
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1488,8 +1479,7 @@
       "prix_ht": 684,
       "avec_semelle_130x230": 866,
       "avec_semelle_140x240": 919,
-      "avec_semelle_150x250": 975,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 975
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1500,8 +1490,7 @@
       "prix_ht": 684,
       "avec_semelle_130x230": 866,
       "avec_semelle_140x240": 919,
-      "avec_semelle_150x250": 975,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 975
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1512,8 +1501,7 @@
       "prix_ht": 686,
       "avec_semelle_130x230": 869,
       "avec_semelle_140x240": 922,
-      "avec_semelle_150x250": 978,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 978
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1524,8 +1512,7 @@
       "prix_ht": 686,
       "avec_semelle_130x230": 869,
       "avec_semelle_140x240": 922,
-      "avec_semelle_150x250": 978,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 978
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1536,8 +1523,7 @@
       "prix_ht": 686,
       "avec_semelle_130x230": 869,
       "avec_semelle_140x240": 922,
-      "avec_semelle_150x250": 978,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 978
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1548,8 +1534,7 @@
       "prix_ht": 698,
       "avec_semelle_130x230": 884,
       "avec_semelle_140x240": 938,
-      "avec_semelle_150x250": 995,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 995
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1560,8 +1545,7 @@
       "prix_ht": 698,
       "avec_semelle_130x230": 884,
       "avec_semelle_140x240": 938,
-      "avec_semelle_150x250": 995,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 995
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1572,8 +1556,7 @@
       "prix_ht": 698,
       "avec_semelle_130x230": 884,
       "avec_semelle_140x240": 938,
-      "avec_semelle_150x250": 995,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 995
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1584,8 +1567,7 @@
       "prix_ht": 703,
       "avec_semelle_130x230": 891,
       "avec_semelle_140x240": 945,
-      "avec_semelle_150x250": 1002,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 1002
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1596,8 +1578,7 @@
       "prix_ht": 708,
       "avec_semelle_130x230": 897,
       "avec_semelle_140x240": 951,
-      "avec_semelle_150x250": 1009,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 1009
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1608,8 +1589,7 @@
       "prix_ht": 708,
       "avec_semelle_130x230": 897,
       "avec_semelle_140x240": 951,
-      "avec_semelle_150x250": 1009,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 1009
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1620,8 +1600,7 @@
       "prix_ht": 719,
       "avec_semelle_130x230": 911,
       "avec_semelle_140x240": 966,
-      "avec_semelle_150x250": 1024,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 1024
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1632,8 +1611,7 @@
       "prix_ht": 719,
       "avec_semelle_130x230": 911,
       "avec_semelle_140x240": 966,
-      "avec_semelle_150x250": 1024,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 1024
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1644,8 +1622,7 @@
       "prix_ht": 719,
       "avec_semelle_130x230": 911,
       "avec_semelle_140x240": 966,
-      "avec_semelle_150x250": 1024,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 1024
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1656,8 +1633,7 @@
       "prix_ht": 731,
       "avec_semelle_130x230": 926,
       "avec_semelle_140x240": 982,
-      "avec_semelle_150x250": 1041,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 1041
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1668,8 +1644,7 @@
       "prix_ht": 779,
       "avec_semelle_130x230": 987,
       "avec_semelle_140x240": 1047,
-      "avec_semelle_150x250": 1146,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 1146
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1680,8 +1655,7 @@
       "prix_ht": 863,
       "avec_semelle_130x230": 1093,
       "avec_semelle_140x240": 1160,
-      "avec_semelle_150x250": 1230,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 1230
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1692,8 +1666,7 @@
       "prix_ht": 899,
       "avec_semelle_130x230": 1139,
       "avec_semelle_140x240": 1208,
-      "avec_semelle_150x250": 1281,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 1281
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1704,8 +1677,7 @@
       "prix_ht": 899,
       "avec_semelle_130x230": 1139,
       "avec_semelle_140x240": 1208,
-      "avec_semelle_150x250": 1281,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 1281
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1716,8 +1688,7 @@
       "prix_ht": 520,
       "avec_semelle_130x230": 652,
       "avec_semelle_140x240": 690,
-      "avec_semelle_150x250": 730,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 730
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1728,8 +1699,7 @@
       "prix_ht": 527,
       "avec_semelle_130x230": 661,
       "avec_semelle_140x240": 700,
-      "avec_semelle_150x250": 740,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 740
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1740,8 +1710,7 @@
       "prix_ht": 527,
       "avec_semelle_130x230": 661,
       "avec_semelle_140x240": 700,
-      "avec_semelle_150x250": 740,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 740
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1752,8 +1721,7 @@
       "prix_ht": 532,
       "avec_semelle_130x230": 667,
       "avec_semelle_140x240": 706,
-      "avec_semelle_150x250": 747,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 747
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1764,8 +1732,7 @@
       "prix_ht": 635,
       "avec_semelle_130x230": 798,
       "avec_semelle_140x240": 845,
-      "avec_semelle_150x250": 894,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 894
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1776,8 +1743,7 @@
       "prix_ht": 656,
       "avec_semelle_130x230": 824,
       "avec_semelle_140x240": 873,
-      "avec_semelle_150x250": 924,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 924
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1788,8 +1754,7 @@
       "prix_ht": 805,
       "avec_semelle_130x230": 1013,
       "avec_semelle_140x240": 1073,
-      "avec_semelle_150x250": 1137,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 1137
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1800,8 +1765,7 @@
       "prix_ht": 851,
       "avec_semelle_130x230": 1071,
       "avec_semelle_140x240": 1135,
-      "avec_semelle_150x250": 1202,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 1202
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1812,8 +1776,7 @@
       "prix_ht": 872,
       "avec_semelle_130x230": 1098,
       "avec_semelle_140x240": 1163,
-      "avec_semelle_150x250": 1232,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 1232
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1824,8 +1787,7 @@
       "prix_ht": 896,
       "avec_semelle_130x230": 1128,
       "avec_semelle_140x240": 1196,
-      "avec_semelle_150x250": 1266,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 1266
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1836,8 +1798,7 @@
       "prix_ht": 952,
       "avec_semelle_130x230": 1199,
       "avec_semelle_140x240": 1271,
-      "avec_semelle_150x250": 1346,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 1346
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1848,8 +1809,7 @@
       "prix_ht": 1043,
       "avec_semelle_130x230": 1314,
       "avec_semelle_140x240": 1393,
-      "avec_semelle_150x250": 1476,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 1476
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1860,8 +1820,7 @@
       "prix_ht": 1043,
       "avec_semelle_130x230": 1314,
       "avec_semelle_140x240": 1393,
-      "avec_semelle_150x250": 1476,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 1476
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1872,8 +1831,7 @@
       "prix_ht": 1055,
       "avec_semelle_130x230": 1330,
       "avec_semelle_140x240": 1409,
-      "avec_semelle_150x250": 1493,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 1493
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1884,8 +1842,7 @@
       "prix_ht": 1067,
       "avec_semelle_130x230": 1345,
       "avec_semelle_140x240": 1425,
-      "avec_semelle_150x250": 1510,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 1510
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1896,8 +1853,7 @@
       "prix_ht": 1067,
       "avec_semelle_130x230": 1345,
       "avec_semelle_140x240": 1425,
-      "avec_semelle_150x250": 1510,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 1510
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1908,8 +1864,7 @@
       "prix_ht": 1088,
       "avec_semelle_130x230": 1372,
       "avec_semelle_140x240": 1454,
-      "avec_semelle_150x250": 1540,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 1540
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -1920,8 +1875,7 @@
       "prix_ht": 1100,
       "avec_semelle_130x230": 1387,
       "avec_semelle_140x240": 1470,
-      "avec_semelle_150x250": 1557,
-      "photo": "photos/monuments/PHGA-CL-C.jpg"
+      "avec_semelle_150x250": 1557
     },
     {
       "ligne": "LIGNE CLASSIQUE",
@@ -5628,7 +5582,8 @@
       "prix_ht": 641,
       "avec_semelle_130x230": 799,
       "avec_semelle_140x240": 845,
-      "avec_semelle_150x250": 893
+      "avec_semelle_150x250": 893,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5639,7 +5594,8 @@
       "prix_ht": 640,
       "avec_semelle_130x230": 798,
       "avec_semelle_140x240": 844,
-      "avec_semelle_150x250": 892
+      "avec_semelle_150x250": 892,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5650,7 +5606,8 @@
       "prix_ht": 713,
       "avec_semelle_130x230": 889,
       "avec_semelle_140x240": 940,
-      "avec_semelle_150x250": 993
+      "avec_semelle_150x250": 993,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5661,7 +5618,8 @@
       "prix_ht": 724,
       "avec_semelle_130x230": 903,
       "avec_semelle_140x240": 955,
-      "avec_semelle_150x250": 1009
+      "avec_semelle_150x250": 1009,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5672,7 +5630,8 @@
       "prix_ht": 724,
       "avec_semelle_130x230": 903,
       "avec_semelle_140x240": 955,
-      "avec_semelle_150x250": 1009
+      "avec_semelle_150x250": 1009,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5683,7 +5642,8 @@
       "prix_ht": 728,
       "avec_semelle_130x230": 908,
       "avec_semelle_140x240": 960,
-      "avec_semelle_150x250": 1015
+      "avec_semelle_150x250": 1015,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5694,7 +5654,8 @@
       "prix_ht": 728,
       "avec_semelle_130x230": 908,
       "avec_semelle_140x240": 960,
-      "avec_semelle_150x250": 1015
+      "avec_semelle_150x250": 1015,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5705,7 +5666,8 @@
       "prix_ht": 728,
       "avec_semelle_130x230": 908,
       "avec_semelle_140x240": 960,
-      "avec_semelle_150x250": 1015
+      "avec_semelle_150x250": 1015,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5716,7 +5678,8 @@
       "prix_ht": 728,
       "avec_semelle_130x230": 908,
       "avec_semelle_140x240": 960,
-      "avec_semelle_150x250": 1015
+      "avec_semelle_150x250": 1015,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5727,7 +5690,8 @@
       "prix_ht": 728,
       "avec_semelle_130x230": 908,
       "avec_semelle_140x240": 960,
-      "avec_semelle_150x250": 1015
+      "avec_semelle_150x250": 1015,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5738,7 +5702,8 @@
       "prix_ht": 728,
       "avec_semelle_130x230": 908,
       "avec_semelle_140x240": 960,
-      "avec_semelle_150x250": 1015
+      "avec_semelle_150x250": 1015,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5749,7 +5714,8 @@
       "prix_ht": 738,
       "avec_semelle_130x230": 920,
       "avec_semelle_140x240": 973,
-      "avec_semelle_150x250": 1029
+      "avec_semelle_150x250": 1029,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5760,7 +5726,8 @@
       "prix_ht": 738,
       "avec_semelle_130x230": 920,
       "avec_semelle_140x240": 973,
-      "avec_semelle_150x250": 1029
+      "avec_semelle_150x250": 1029,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5771,7 +5738,8 @@
       "prix_ht": 741,
       "avec_semelle_130x230": 924,
       "avec_semelle_140x240": 977,
-      "avec_semelle_150x250": 1033
+      "avec_semelle_150x250": 1033,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5782,7 +5750,8 @@
       "prix_ht": 741,
       "avec_semelle_130x230": 924,
       "avec_semelle_140x240": 977,
-      "avec_semelle_150x250": 1033
+      "avec_semelle_150x250": 1033,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5793,7 +5762,8 @@
       "prix_ht": 741,
       "avec_semelle_130x230": 924,
       "avec_semelle_140x240": 977,
-      "avec_semelle_150x250": 1033
+      "avec_semelle_150x250": 1033,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5804,7 +5774,8 @@
       "prix_ht": 754,
       "avec_semelle_130x230": 940,
       "avec_semelle_140x240": 994,
-      "avec_semelle_150x250": 1051
+      "avec_semelle_150x250": 1051,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5815,7 +5786,8 @@
       "prix_ht": 754,
       "avec_semelle_130x230": 940,
       "avec_semelle_140x240": 994,
-      "avec_semelle_150x250": 1051
+      "avec_semelle_150x250": 1051,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5826,7 +5798,8 @@
       "prix_ht": 754,
       "avec_semelle_130x230": 940,
       "avec_semelle_140x240": 994,
-      "avec_semelle_150x250": 1051
+      "avec_semelle_150x250": 1051,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5837,7 +5810,8 @@
       "prix_ht": 760,
       "avec_semelle_130x230": 948,
       "avec_semelle_140x240": 1002,
-      "avec_semelle_150x250": 1059
+      "avec_semelle_150x250": 1059,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5848,7 +5822,8 @@
       "prix_ht": 764,
       "avec_semelle_130x230": 953,
       "avec_semelle_140x240": 1007,
-      "avec_semelle_150x250": 1065
+      "avec_semelle_150x250": 1065,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5859,7 +5834,8 @@
       "prix_ht": 764,
       "avec_semelle_130x230": 953,
       "avec_semelle_140x240": 1007,
-      "avec_semelle_150x250": 1065
+      "avec_semelle_150x250": 1065,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5870,7 +5846,8 @@
       "prix_ht": 776,
       "avec_semelle_130x230": 968,
       "avec_semelle_140x240": 1023,
-      "avec_semelle_150x250": 1081
+      "avec_semelle_150x250": 1081,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5881,7 +5858,8 @@
       "prix_ht": 776,
       "avec_semelle_130x230": 968,
       "avec_semelle_140x240": 1023,
-      "avec_semelle_150x250": 1081
+      "avec_semelle_150x250": 1081,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5892,7 +5870,8 @@
       "prix_ht": 776,
       "avec_semelle_130x230": 968,
       "avec_semelle_140x240": 1023,
-      "avec_semelle_150x250": 1081
+      "avec_semelle_150x250": 1081,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5903,7 +5882,8 @@
       "prix_ht": 789,
       "avec_semelle_130x230": 984,
       "avec_semelle_140x240": 1040,
-      "avec_semelle_150x250": 1099
+      "avec_semelle_150x250": 1099,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5914,7 +5894,8 @@
       "prix_ht": 841,
       "avec_semelle_130x230": 1049,
       "avec_semelle_140x240": 1109,
-      "avec_semelle_150x250": 1208
+      "avec_semelle_150x250": 1208,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5925,7 +5906,8 @@
       "prix_ht": 932,
       "avec_semelle_130x230": 1162,
       "avec_semelle_140x240": 1229,
-      "avec_semelle_150x250": 1299
+      "avec_semelle_150x250": 1299,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5936,7 +5918,8 @@
       "prix_ht": 970,
       "avec_semelle_130x230": 1210,
       "avec_semelle_140x240": 1279,
-      "avec_semelle_150x250": 1352
+      "avec_semelle_150x250": 1352,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5947,7 +5930,8 @@
       "prix_ht": 970,
       "avec_semelle_130x230": 1210,
       "avec_semelle_140x240": 1279,
-      "avec_semelle_150x250": 1352
+      "avec_semelle_150x250": 1352,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5958,7 +5942,8 @@
       "prix_ht": 579,
       "avec_semelle_130x230": 711,
       "avec_semelle_140x240": 749,
-      "avec_semelle_150x250": 789
+      "avec_semelle_150x250": 789,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5969,7 +5954,8 @@
       "prix_ht": 587,
       "avec_semelle_130x230": 721,
       "avec_semelle_140x240": 760,
-      "avec_semelle_150x250": 800
+      "avec_semelle_150x250": 800,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5980,7 +5966,8 @@
       "prix_ht": 587,
       "avec_semelle_130x230": 721,
       "avec_semelle_140x240": 760,
-      "avec_semelle_150x250": 800
+      "avec_semelle_150x250": 800,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -5991,7 +5978,8 @@
       "prix_ht": 592,
       "avec_semelle_130x230": 727,
       "avec_semelle_140x240": 766,
-      "avec_semelle_150x250": 807
+      "avec_semelle_150x250": 807,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -6002,7 +5990,8 @@
       "prix_ht": 704,
       "avec_semelle_130x230": 867,
       "avec_semelle_140x240": 914,
-      "avec_semelle_150x250": 963
+      "avec_semelle_150x250": 963,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -6013,7 +6002,8 @@
       "prix_ht": 727,
       "avec_semelle_130x230": 895,
       "avec_semelle_140x240": 944,
-      "avec_semelle_150x250": 995
+      "avec_semelle_150x250": 995,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -6024,7 +6014,8 @@
       "prix_ht": 888,
       "avec_semelle_130x230": 1096,
       "avec_semelle_140x240": 1156,
-      "avec_semelle_150x250": 1220
+      "avec_semelle_150x250": 1220,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -6035,7 +6026,8 @@
       "prix_ht": 937,
       "avec_semelle_130x230": 1157,
       "avec_semelle_140x240": 1221,
-      "avec_semelle_150x250": 1288
+      "avec_semelle_150x250": 1288,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -6046,7 +6038,8 @@
       "prix_ht": 960,
       "avec_semelle_130x230": 1186,
       "avec_semelle_140x240": 1251,
-      "avec_semelle_150x250": 1320
+      "avec_semelle_150x250": 1320,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -6057,7 +6050,8 @@
       "prix_ht": 986,
       "avec_semelle_130x230": 1218,
       "avec_semelle_140x240": 1286,
-      "avec_semelle_150x250": 1356
+      "avec_semelle_150x250": 1356,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -6068,7 +6062,8 @@
       "prix_ht": 1046,
       "avec_semelle_130x230": 1293,
       "avec_semelle_140x240": 1365,
-      "avec_semelle_150x250": 1440
+      "avec_semelle_150x250": 1440,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -6079,7 +6074,8 @@
       "prix_ht": 1144,
       "avec_semelle_130x230": 1415,
       "avec_semelle_140x240": 1494,
-      "avec_semelle_150x250": 1577
+      "avec_semelle_150x250": 1577,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -6090,7 +6086,8 @@
       "prix_ht": 1144,
       "avec_semelle_130x230": 1415,
       "avec_semelle_140x240": 1494,
-      "avec_semelle_150x250": 1577
+      "avec_semelle_150x250": 1577,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -6101,7 +6098,8 @@
       "prix_ht": 1157,
       "avec_semelle_130x230": 1432,
       "avec_semelle_140x240": 1511,
-      "avec_semelle_150x250": 1595
+      "avec_semelle_150x250": 1595,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -6112,7 +6110,8 @@
       "prix_ht": 1170,
       "avec_semelle_130x230": 1448,
       "avec_semelle_140x240": 1528,
-      "avec_semelle_150x250": 1613
+      "avec_semelle_150x250": 1613,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -6123,7 +6122,8 @@
       "prix_ht": 1170,
       "avec_semelle_130x230": 1448,
       "avec_semelle_140x240": 1528,
-      "avec_semelle_150x250": 1613
+      "avec_semelle_150x250": 1613,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -6134,7 +6134,8 @@
       "prix_ht": 1194,
       "avec_semelle_130x230": 1478,
       "avec_semelle_140x240": 1560,
-      "avec_semelle_150x250": 1646
+      "avec_semelle_150x250": 1646,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -6145,7 +6146,8 @@
       "prix_ht": 1206,
       "avec_semelle_130x230": 1493,
       "avec_semelle_140x240": 1576,
-      "avec_semelle_150x250": 1663
+      "avec_semelle_150x250": 1663,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
@@ -33084,7 +33086,8 @@
       "prix_ht": 837,
       "avec_semelle_130x230": 1017,
       "avec_semelle_140x240": 1069,
-      "avec_semelle_150x250": 1124
+      "avec_semelle_150x250": 1124,
+      "photo": "photos/monuments/PHGA-CR-A.jpg"
     },
     {
       "ligne": "LIGNE CRÉATION",
